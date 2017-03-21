@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/andreasindal/sublime/blob/master/sublime.png?raw=true"></p>
-<p align="center"><h4>Personal Sublime Text 3 settings</h4></p>
+<h4 align="center">Personal Sublime Text 3 settings</h4>
 
 ***
 
