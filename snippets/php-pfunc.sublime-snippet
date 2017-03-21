@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+protected function ${1}(${2:args})
+{
+    ${3}
+}
+]]></content>
+    <tabTrigger>pfunc</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+class ${1}Test extends PHPUnit_Framework_TestCase
+{
+    ${2}    
+}
+]]></content>
+    <tabTrigger>utest</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

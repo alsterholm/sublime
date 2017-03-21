@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * @var
+ */
+protected \$${1}${2: = };
+]]></content>
+    <tabTrigger>var</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

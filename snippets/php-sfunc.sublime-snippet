@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+public static function ${1}()
+{
+    ${2}
+}
+]]></content>
+    <tabTrigger>sfunc</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

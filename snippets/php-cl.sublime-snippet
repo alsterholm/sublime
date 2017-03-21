@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+${1:Class}::class
+]]></content>
+    <tabTrigger>cl</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

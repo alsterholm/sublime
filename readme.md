@@ -72,7 +72,6 @@
   { "keys": ["super+shift+a"], "command": "find_all_under" },
   { "keys": ["super+shift+,"], "command": "run_macro_file", "args": {"file": "Packages/User/SemiColon.sublime-macro"} },
   { "keys": ["option+shift+,"], "command": "run_macro_file", "args": {"file": "Packages/User/Comma.sublime-macro"} },
-  { "keys": ["super+shift+9"], "command": "run_macro_file", "args": {"file": "Packages/User/LeftParens.sublime-macro"} },
   { "keys": ["shift+super+x"], "command": "deselect" },
   { "keys": ["shift+super+n"], "command": "deselect" },
   { "keys": ["option+1"], "command": "toggle_side_bar" },
@@ -89,3 +88,71 @@
   { "keys": ["shift+option+j"], "command": "select_lines", "args": {"forward": true} },
 ]
 ```
+
+## Packages
+
+```json
+[
+  "AdvancedNewFile",
+  "Babel",
+  "Blade Snippets",
+  "ColorPicker",
+  "Colorsublime",
+  "Deselect",
+  "DotENV",
+  "EditorConfig",
+  "Emmet",
+  "ESLint",
+  "File Navigator",
+  "Github Color Theme",
+  "GitHub Flavored Markdown Preview",
+  "Inspired GitHub Color Scheme",
+  "JSX",
+  "Laravel Blade Highlighter",
+  "Markdown Preview",
+  "Package Control",
+  "PackageResourceViewer",
+  "PHP Companion",
+  "Phpcs",
+  "PHPIntel",
+  "PHPUnit Completions",
+  "React Templates",
+  "ReactJS",
+  "Sass",
+  "SublimeLinter",
+  "SublimeLinter-contrib-eslint",
+  "SublimeLinter-contrib-tslint",
+  "SublimeLinter-php",
+  "Theme - Soda",
+  "Theme - Solarized Flat",
+  "Theme - Spacegray",
+  "TypeScript",
+  "Vue Syntax Highlight",
+  "WakaTime"
+]
+```
+
+## Snippets
+
+* [php-afunc.sublime-snippet](https://github.com/andreasindal/sublime/blob/master/snippets/php-afunc.sublime-snippet)
+* [php-cl.sublime-snippet](https://github.com/andreasindal/sublime/blob/master/snippets/php-cl.sublime-snippet)
+* [php-const.sublime-snippet](https://github.com/andreasindal/sublime/blob/master/snippets/php-const.sublime-snippet)
+* [php-constr.sublime-snippet](https://github.com/andreasindal/sublime/blob/master/snippets/php-constr.sublime-snippet)
+* [php-fk.sublime-snippet](https://github.com/andreasindal/sublime/blob/master/snippets/php-fk.sublime-snippet)
+* [php-func.sublime-snippet](https://github.com/andreasindal/sublime/blob/master/snippets/php-func.sublime-snippet)
+* [php-ifunc.sublime-snippet](https://github.com/andreasindal/sublime/blob/master/snippets/php-ifunc.sublime-snippet)
+* [php-pfunc.sublime-snippet](https://github.com/andreasindal/sublime/blob/master/snippets/php-pfunc.sublime-snippet)
+* [php-prfunc.sublime-snippet](https://github.com/andreasindal/sublime/blob/master/snippets/php-prfunc.sublime-snippet)
+* [php-sfunc.sublime-snippet](https://github.com/andreasindal/sublime/blob/master/snippets/php-sfunc.sublime-snippet)
+* [php-tb.sublime-snippet](https://github.com/andreasindal/sublime/blob/master/snippets/php-tb.sublime-snippet)
+* [php-tfunc.sublime-snippet](https://github.com/andreasindal/sublime/blob/master/snippets/php-tfunc.sublime-snippet)
+* [php-this.sublime-snippet](https://github.com/andreasindal/sublime/blob/master/snippets/php-this.sublime-snippet)
+* [php-ti.sublime-snippet](https://github.com/andreasindal/sublime/blob/master/snippets/php-ti.sublime-snippet)
+* [php-ts.sublime-snippet](https://github.com/andreasindal/sublime/blob/master/snippets/php-ts.sublime-snippet)
+* [php-utest.sublime-snippet](https://github.com/andreasindal/sublime/blob/master/snippets/php-utest.sublime-snippet)
+* [php-var.sublime-snippet](https://github.com/andreasindal/sublime/blob/master/snippets/php-var.sublime-snippet)
+
+## Macros
+
+* [Comma.sublime-macro](https://github.com/andreasindal/sublime/blob/master/macros/Comma.sublime-macro)
+* [Semicolon.sublime-macro](https://github.com/andreasindal/sublime/blob/master/macros/Semicolon.sublime-macro)

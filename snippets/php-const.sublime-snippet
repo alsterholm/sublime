@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * @var
+ */
+const ${1} = ${2};
+]]></content>
+    <tabTrigger>const</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
