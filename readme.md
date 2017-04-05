@@ -132,6 +132,8 @@
 ]
 ```
 
+* [sublime-phpunit](https://github.com/adamwathan/sublime-phpunit) by Adam Wathan (not available from Package Control)
+
 ## Snippets
 
 * [php-afunc.sublime-snippet](https://github.com/andreasindal/sublime/blob/master/snippets/php-afunc.sublime-snippet)
